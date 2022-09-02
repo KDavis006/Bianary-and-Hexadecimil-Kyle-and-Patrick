@@ -12,7 +12,7 @@ function convert(numb){
 
 
 }
-alert(convert(result))
+alert("The Bianary of " + number + " is " + convert(result))
 
 let result2 = number.toString(16)
-alert(result2)
+alert("The Hexadecimal of " + number + " is " + result2)
