@@ -13,3 +13,6 @@ function convert(numb){
 
 }
 alert(convert(result))
+
+let result2 = number.toString(16)
+alert(result2)
