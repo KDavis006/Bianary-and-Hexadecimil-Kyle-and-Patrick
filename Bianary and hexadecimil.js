@@ -1,3 +1,4 @@
+//Previouse way of doing it
 // while(num.length < 9){
 //  num = '0' + num
 //  if(num.length == 8){
